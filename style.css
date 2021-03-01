@@ -15,7 +15,7 @@ header nav {
 header::after {
     content: '';
     display: inline-block;
-    width: 100%;
+    width: 50%;
 }
 header h1 {
     height: 100%;
